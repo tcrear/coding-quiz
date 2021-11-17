@@ -1,0 +1,22 @@
+:root {
+    --dark: rgba(143, 59, 115, 0.664);
+    --light: #fff;
+    --navlink-color: #95afe0;
+}
+
+a:hover {
+    transition:.5s;
+    color: #fff;
+    background-color: var(--dark);
+    border-style: none;
+}
+
+.code-quiz-start {
+    text-align: center;
+    background-color: var(--dark);
+    padding-bottom: 50px;
+}
+
+.question-container {
+    color: tan;
+}
