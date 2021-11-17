@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Quiz Highscores</title>
+    <link rel="resetcss" href="./assets/css/reset.css">
+    <link rel="sylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+    <main>
+        <section>
+            <div id="highscores" class="final-score"></div>
+            <h1>Code Quiz Highscores</h1>
+                <form name="initials">
+                    <label for="fname">First name:</label>
+                    <input type="text" id="initials" name="initials"><br><br>
+                    <input type="button" onclick="formSubmit()" value="Send form data!">
+                </form>
+            <button id="back" class="go-back-btn">Back</button>
+            <button id="play-again" class="play-again-btn">Play Again</button>
+            <div id="results"></div>
+        </section>
+    </main>
+    <script src="./assets/js/highscores.js"></script>
+</body>
+</html>
