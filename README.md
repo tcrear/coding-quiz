@@ -7,7 +7,9 @@ The objective of the quiz is to use HTML, CSS, and JavaScript to create a quiz t
 
 ## Deloyed Site Screenshot
 
-![image]()
+![image](https://github.com/tcrear/coding-quiz/blob/main/assets/images/Capture-start.JPG)
+
+![image](https://github.com/tcrear/coding-quiz/blob/main/assets/images/Capture-questions.JPG)
 
 
 ## Link to Deployed Site
