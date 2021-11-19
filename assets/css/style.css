@@ -11,12 +11,36 @@ a:hover {
     border-style: none;
 }
 
-.code-quiz-start {
+header {
     text-align: center;
     background-color: var(--dark);
     padding-bottom: 50px;
 }
 
+h1 {
+    font-size: 50px;
+    padding-top: 5%;
+    text-align: center;
+    padding-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body p {
+    text-align: center;
+    font-size: 25px;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+
 .question-container {
     color: tan;
+    text-align: center;
 }
+
+.startButton {
+    text-align: center
+}
+
